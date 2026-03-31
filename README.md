@@ -88,4 +88,4 @@ This is a self-initiated portfolio project completed as part of my transition in
 
 ---
 
-*Portfolio project by Mahrukh Sohail| [LinkedIn](https://www.linkedin.com/in/mahrukh-sohail) | March 2026*
+*Portfolio project by Mahrukh Sohail| (https://www.linkedin.com/in/mahrukh-sohail) | March 2026*
