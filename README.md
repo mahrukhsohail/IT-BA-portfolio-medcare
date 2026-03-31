@@ -39,7 +39,7 @@ This is a portfolio artifact demonstrating end-to-end BA practice — from probl
 ## Artifacts
 
 - [`MedCare_BRD_UserStories_v1.0.docx`](./MedCare_BRD_UserStories_v1.0.docx) — Full BRD and User Stories document
-- [`AS_IS_TO_BE_Swimlane.png`](./MedCare_AS-IS_TO-BE_swimlane.svg) — Process flow diagram *(screenshot from draw.io)*
+- [`MedCare_AS-IS_TO-BE_swimlane.svg`](./MedCare_AS-IS_TO-BE_swimlane.svg) — Process flow diagram *(screenshot from draw.io)*
 
 ---
 
