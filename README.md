@@ -80,16 +80,6 @@ It removes ambiguity between BA, developer, and QA. "The system shall display re
 
 ---
 
-## What I would do next (Phase 2)
-
-- [ ] Functional Requirements Document (FRD) — system-level specs from each BR
-- [ ] Requirements Traceability Matrix — BR → User Story → Test Case mapping
-- [ ] UAT test scripts based on acceptance criteria
-- [ ] Wireframe annotations (collaborating with UX designer)
-- [ ] Municipality case study — Case Study 2 (Dutch public sector context)
-
----
-
 ## About this project
 
 This is a self-initiated portfolio project completed as part of my transition into a Junior Business Analyst role in the Netherlands. All company names, data, and scenarios are fictional and created for learning and demonstration purposes.
@@ -98,4 +88,4 @@ This is a self-initiated portfolio project completed as part of my transition in
 
 ---
 
-*Portfolio project by Mao | [LinkedIn](https://linkedin.com/in/your-profile) | March 2026*
+*Portfolio project by Mahrukh Sohail| [LinkedIn](https://www.linkedin.com/in/mahrukh-sohail) | March 2026*
